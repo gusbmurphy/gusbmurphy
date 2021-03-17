@@ -11,7 +11,7 @@ Alright, so I guess we're just moving on? Whatever. Let me play catch up real qu
 *I was clearly onto something there, I'm just going to keep going...* At the moment, I've been spending a good deal of time working on a React Native-based app for musicians to create and manage practice routines with my good friend [Luke Rivard](https://www.linkedin.com/in/rivardluke/). I've also recently finished my first contribution to [17Lands](https://www.17lands.com/), a web application with a few corresponding desktop applications that aggregates data for players of [Magic The Gathering Arena](https://magic.wizards.com/en/mtgarena). I also participated in the [2020 GitHub Game Off](https://itch.io/jam/game-off-2020/rate/839955), and would love to do even more thinking about games.
 
 ### 💬 Ask me about...
-Alright so at this point not only is this getting *much* longer than it should be, the content is two secions off? Honestly, what a train wreck. Let's just wrap a few things up here and call it a wash:
+Alright so at this point not only is this getting *much* longer than it should be, the content is two sections off? Honestly, what a train wreck. Let's just wrap a few things up here and call it a wash:
 
 - 💻  Love JavaScript, TypeScript, and React.
 - 💾  Like Python, C#, and Java.
